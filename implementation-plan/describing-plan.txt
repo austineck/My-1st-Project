@@ -1,0 +1,4 @@
+I plan on following the instructions as described to us during class to be able to break it down in smaller steps, which will make it easier for me to follow. 
+The resources I plan on using to help me create this script is the Linux textbook as well as online help. I will be the one who owns the code, and changes will be
+applied frequently to this project by me using git.
+
